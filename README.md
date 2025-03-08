@@ -1,4 +1,4 @@
-# RBAC-Personalized-Stop-Start-VMs
+# Azure RBAC-Personalized-Stop-Start-VMs
 RBAC Personalized to Stop, Start and Deallocate VMs
 
 Este scritp em json pode ser util no seu ambiente de Azure para ser específico para um usuário somente realizar o Stop, Start e Deallocate das Virtual Machines.
