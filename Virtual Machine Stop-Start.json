@@ -1,7 +1,7 @@
 {
     "properties": {
         "roleName": "Virtual Machine Start/Stop",
-        "description": "",
+        "description": "Stop/Start de VMs",
         "assignableScopes": [
             "/providers/Microsoft.Management/managementGroups/HML"
         ],
