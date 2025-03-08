@@ -7,7 +7,9 @@ No parâmetro: "assignableScopes": [
             "/providers/Microsoft.Management/managementGroups/HML"
         ],
 
-Substitua pelo seu Management Group
+Substitua pelo seu Management Group, Subscription ou Resource Group.
+
+
 
 Importe esse script através do RBAC custom role e depois configure os usuários ou grupos que irão ter essa role atribuída.
 
