@@ -1,0 +1,22 @@
+{
+    "properties": {
+        "roleName": "Virtual Machine Start/Stop",
+        "description": "",
+        "assignableScopes": [
+            "/providers/Microsoft.Management/managementGroups/HML"
+        ],
+        "permissions": [
+            {
+                "actions": [
+                    "Microsoft.Compute/virtualMachines/start/action",
+                    "Microsoft.Compute/virtualMachines/powerOff/action",
+                    "Microsoft.Compute/virtualMachines/restart/action",
+                    "Microsoft.Compute/virtualMachines/deallocate/action"
+                ],
+                "notActions": [],
+                "dataActions": [],
+                "notDataActions": []
+            }
+        ]
+    }
+}
