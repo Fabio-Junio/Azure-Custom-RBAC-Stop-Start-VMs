@@ -17,7 +17,7 @@ Se for Subscription:
 ou Resource Group.
 "/subscriptions/0a91d1d7...xxx....xxx...87393/resourceGroups/rg-prd"
 
-Importe esse script através do RBAC custom role e depois configure os usuários ou grupos que irão ter essa role atribuída.
+Importe esse script através do RBAC custom role na seu Management Group ou Subscription ou Resource Group e depois configure os usuários ou grupos que irão ter essa role atribuída.
 
 ##################
 
@@ -38,4 +38,4 @@ If it is Subscription:
 or Resource Group.
 "/subscriptions/0a91d1d7...xxx....xxx...87393/resourceGroups/rg-prd"
 
-Import this script through the RBAC custom role and then configure the users or groups that will have this role assigned.
+Import this script through the RBAC custom role in your Management Group or Subscription or Resource Group and then configure the users or groups that will have this role assigned.
