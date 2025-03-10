@@ -1,5 +1,8 @@
 # Azure Custom RBAC Stop-Start VMs
 
+Assistam ao vídeo do canal Azure Xplorer para auxiliar na configuração e importação do seu arquivo JSON:
+https://youtu.be/40W98RRsGwM
+
 O arquivo JSON Virtual Machine Stop-Start.json pode ser util no seu ambiente de Azure para ser específico para um usuário somente realizar o Stop, Start e Deallocate das Virtual Machines.
 
 No parâmetro: "assignableScopes": [
@@ -22,6 +25,10 @@ Importe esse script através do RBAC custom role na seu Management Group ou Subs
 ##################
 
 The JSON file Virtual Machine Stop-Start.json can be useful in your Azure environment to be specific to a user only to perform the Stop, Start and Deallocate of Virtual Machines.
+
+Watch the video on the Azure Xplorer channel to help you configure and import your JSON file:
+https://youtu.be/40W98RRsGwM
+
 
 In the parameter: "assignableScopes": [
 "/providers/Microsoft.Management/managementGroups/HML"
